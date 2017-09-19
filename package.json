@@ -4,7 +4,8 @@
   "description": "Shows the current time on your computer",
   "main": "index.js",
   "scripts": {
-    "build": "babel src -d lib"
+    "build": "babel src -d lib",
+    "start": "node index.js"
   },
   "author": "Boyd Jenkins",
   "license": "ISC",
